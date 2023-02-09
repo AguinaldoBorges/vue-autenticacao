@@ -6,7 +6,7 @@
           <div class="mb-3">
             <label for="user" class="form-label">Email</label>
             <input type="email" class="form-control" id="user" aria-describedby="userHelp" v-model="user">
-            <div id="userHelp" class="form-text">Nunca compartilharemos seu e-mail com mais ninguém.</div>
+            <div id="userHelp" class="form-text">Email: admin | Senha: admin</div>
           </div>
           <div class="mb-3">
             <label for="passorwd" class="form-label">Senha</label>
